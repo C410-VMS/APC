@@ -1,4 +1,4 @@
-x = int(input("\nAté qual número vai a contagem? ","\n"))
+x = int(input("\nAté qual número vai a contagem? "))
 
 for y in range (0,x+1):
     if y !=0 and y %2 == 0: 
